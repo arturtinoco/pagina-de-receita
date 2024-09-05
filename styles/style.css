@@ -110,3 +110,24 @@ article div.about > ul.info{
 article div.ingredients > ul {
     padding-left: 1.5rem;
 }
+
+footer {
+    position: relative;
+}
+
+footer p {
+    grid-area: footer;
+    color: var(--text-color-footer);
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 150%;
+    text-align: center;
+}
+
+footer a {
+    color: var(--text-color-footer);
+}
+
+footer a:hover {
+    color: white;
+}
