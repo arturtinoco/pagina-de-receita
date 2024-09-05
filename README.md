@@ -2,7 +2,7 @@
 
 Projeto desenvolvido durante a Formação Full-Stack promovida pela Rocketseat.  
 ___
-## 😋 Layout direcionado para sites de culinária, gastronomia e semelhantes.
+## 😋 Layout direcionado para sites de culinária, gastronomia e semelhantes
 
 ![Gif de demonstração de Pagina de Receita](.gitconfig/pagina-de-receita-preview.gif)
   
