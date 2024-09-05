@@ -68,3 +68,41 @@ section#banner img {
     height: 25rem;
     border-radius: 1rem;
 }
+
+article {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    padding: 0 1.5rem 1.5rem 1.5rem;
+}
+
+article h1, h2 {
+    color: var(--text-color-primary);
+    font-weight: 400;
+    margin-bottom: .25rem;
+}
+
+article h1 {
+    font-size: 2.5rem;
+    line-height: 140%;
+}
+
+article h2 {
+    font-size: 1.5rem;
+    line-height: 150%;
+}
+
+article p, article ul {
+    color: var(--text-color-secondary);
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 150%;
+}
+
+article div.about > p {
+    margin-bottom: 0.75rem;
+}
+
+article div.about > ul.info{
+    list-style: none;
+}
