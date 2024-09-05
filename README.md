@@ -15,4 +15,4 @@ ___
 * Figma
 * Notion (para planejamento e avaliação)  
   
-#### 🔎 Você pode conferir o resultado clicando [aqui](https://arturtinoco.github.io/projeto-pagina-de-receita/) ou ver o projeto no [Figma](https://www.figma.com/community/file/1360315130061454535) feito por [Ilana Mallak](https://www.linkedin.com/in/ilanamallak/). 
+#### 🔎 Você pode conferir o resultado clicando [aqui](https://arturtinoco.github.io/pagina-de-receita/) ou ver o projeto no [Figma](https://www.figma.com/community/file/1360315130061454535) feito por [Ilana Mallak](https://www.linkedin.com/in/ilanamallak/). 
