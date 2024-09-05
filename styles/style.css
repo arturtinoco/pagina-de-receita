@@ -1,3 +1,15 @@
+:root {
+    --bg-image: url(../images/main-image.jpg);
+    --bg-color: #573824;
+    --surface-color: #F0E8C2;
+
+    --text-color-primary: #291B1A;
+    --text-color-secondary: #573A37;
+    --text-color-footer: #F0E8C2;
+
+    font-family: "Alice", serif;
+}
+
 * {
     box-sizing: border-box;
     padding: 0;
